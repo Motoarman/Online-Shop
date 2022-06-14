@@ -1,0 +1,49 @@
+﻿@model Online_Shop.Models.Products
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <div style="display:inline-block; ">
+        <img src="@("~/image/" + Model.Image)" asp-append-version="true" height="200vh" />
+    </div>
+
+    <div style="display: inline-block; vertical-align: top;margin-top:2em; width:75%">
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Discription)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Discription)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Category.Category)
+            </dd>
+        </dl>
+    </div>
+</div>
+<div style="margin-top:1.5em">
+    <a class="btn btn-secondary" asp-action="Index">Back to Products</a>
+    <a class="btn btn-secondary" asp-action="Index">Add to Cart</a>
+</div>
