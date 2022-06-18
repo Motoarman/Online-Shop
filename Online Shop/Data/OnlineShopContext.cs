@@ -22,6 +22,8 @@ namespace Online_Shop.Data
 
         public DbSet<Online_Shop.Models.PurchaceItem> PurchaceItems { get; set; }
 
+        public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
+
 
 
 
