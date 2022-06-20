@@ -1,909 +1,453 @@
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\appsettings.json
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.StaticWebAssets.xml
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.exe
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.deps.json
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.runtimeconfig.json
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.runtimeconfig.dev.json
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ref\Online Shop.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\mscorlib.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\netstandard.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.AppContext.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Buffers.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Configuration.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Console.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.Common.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Drawing.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Pipes.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Memory.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Http.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Mail.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Ping.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Requests.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Security.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Sockets.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebClient.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Numerics.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ObjectModel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.Reader.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Claims.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Permissions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Principal.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.SecureString.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ServiceProcess.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Channels.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Thread.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Timer.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Transactions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Transactions.Local.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ValueTuple.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Web.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Windows.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.Linq.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XPath.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\refs\WindowsBase.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.Views.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.Views.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Humanizer.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Convention.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Server.Model.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\bin\Debug\net5.0\Server.Model.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.AssemblyReference.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfoInputs.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfo.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CoreCompileInputs.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.Manifest.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.xml
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\scopedcss\bundle\Online Shop.styles.css
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.TagHelpers.input.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.TagHelpers.output.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorCoreGenerate.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\ProductsByCategory.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Seller.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorTargetAssemblyInfo.cache
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorTargetAssemblyInfo.cs
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.Views.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CopyComplete
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\ref\Online Shop.dll
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.pdb
-C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.genruntimeconfig.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.GeneratedMSBuildEditorConfig.editorconfig
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfoInputs.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfo.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CoreCompileInputs.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cs
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\appsettings.Development.json
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\appsettings.json
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.StaticWebAssets.xml
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.exe
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.deps.json
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.runtimeconfig.json
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.runtimeconfig.dev.json
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ref\Online Shop.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.pdb
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\mscorlib.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\netstandard.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.AppContext.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Buffers.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Configuration.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Console.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.Common.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Drawing.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Pipes.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Memory.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Http.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Mail.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Ping.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Requests.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Security.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Sockets.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebClient.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Numerics.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ObjectModel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.Reader.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Claims.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Permissions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Principal.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.SecureString.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ServiceProcess.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Channels.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Thread.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Timer.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Transactions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Transactions.Local.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.ValueTuple.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Web.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Windows.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.Linq.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XPath.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\refs\WindowsBase.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.Views.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.Views.pdb
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Humanizer.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Convention.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.Manifest.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.xml
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\scopedcss\bundle\Online Shop.styles.css
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.TagHelpers.input.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.TagHelpers.output.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorCoreGenerate.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\ProductsByCategory.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorTargetAssemblyInfo.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorTargetAssemblyInfo.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.Views.pdb
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CopyComplete
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.dll
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\ref\Online Shop.dll
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.pdb
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.genruntimeconfig.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.AssemblyReference.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.StaticWebAssets.xml
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.exe
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.deps.json
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.runtimeconfig.json
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.runtimeconfig.dev.json
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.Views.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Online Shop.Views.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.AssemblyReference.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfoInputs.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfo.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\scopedcss\bundle\Online Shop.styles.css
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.Manifest.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.xml
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.TagHelpers.input.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.TagHelpers.output.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorCoreGenerate.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Products\ProductsByCategory.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorTargetAssemblyInfo.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorTargetAssemblyInfo.cs
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.Views.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CopyComplete
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\refint\Online Shop.dll
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.pdb
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\Online Shop.genruntimeconfig.cache
+C:\Users\Rajesh Nair\Desktop\New folder\Online-Shop\Online Shop\obj\Debug\net5.0\ref\Online Shop.dll

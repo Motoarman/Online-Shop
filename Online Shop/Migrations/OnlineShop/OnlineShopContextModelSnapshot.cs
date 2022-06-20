@@ -157,8 +157,6 @@ namespace Online_Shop.Migrations.OnlineShop
                     b.Navigation("Product");
                 });
 
-<<<<<<< HEAD
-=======
             modelBuilder.Entity("Online_Shop.Models.ShoppingCartItem", b =>
                 {
                     b.HasOne("Online_Shop.Models.Products", "Product")
@@ -168,7 +166,6 @@ namespace Online_Shop.Migrations.OnlineShop
                     b.Navigation("Product");
                 });
 
->>>>>>> 705f0324d45050e6fddb9efef969d9e55b52494a
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>
                 {
                     b.Navigation("Products");
