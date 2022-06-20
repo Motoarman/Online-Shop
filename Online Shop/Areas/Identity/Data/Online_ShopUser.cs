@@ -10,7 +10,11 @@ namespace Online_Shop.Areas.Identity.Data
     // Add profile data for application users by adding properties to the Online_ShopUser class
     public class Online_ShopUser : IdentityUser
     {
-    
-           
+
+        public string FullName { get; set; }
+        
+        public string Address { get; set; }
+
+
     }
 }

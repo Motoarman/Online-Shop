@@ -22,10 +22,6 @@ namespace Online_Shop.Data
 
         public DbSet<Online_Shop.Models.Products> Products { get; set; }
 
-        public DbSet<Online_Shop.Models.Orders> Orders { get; set; }
-
-        public DbSet<Online_Shop.Models.PurchaceItem> PurchaceItems { get; set; }
-
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

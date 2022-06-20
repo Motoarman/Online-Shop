@@ -20,7 +20,7 @@ namespace Online_Shop.Areas.Identity
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("Online_ShopContextConnection")));
 
-                services.AddDefaultIdentity<Online_ShopUser>(options => options.SignIn.RequireConfirmedAccount = false)
+                services.AddIdentity<Online_ShopUser,IdentityRole>().AddDefaultTokenProviders().AddDefaultUI()
                     .AddEntityFrameworkStores<Online_ShopContext>();
             });
         }

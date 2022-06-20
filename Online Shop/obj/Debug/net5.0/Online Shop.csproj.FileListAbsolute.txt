@@ -454,14 +454,7 @@ C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop
 C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\ref\Online Shop.dll
 C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.pdb
 C:\Users\najam\source\repos\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.genruntimeconfig.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.GeneratedMSBuildEditorConfig.editorconfig
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfoInputs.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfo.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CoreCompileInputs.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cs
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cache
-D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cs
+D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\appsettings.Development.json
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\appsettings.json
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\Online Shop.StaticWebAssets.xml
@@ -796,7 +789,6 @@ D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Convention.
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
-D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
@@ -867,6 +859,14 @@ D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\do
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Arman\Online Shop\Online Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfoInputs.cache
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.AssemblyInfo.cs
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.csproj.CoreCompileInputs.cache
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cs
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cache
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Online Shop.RazorAssemblyInfo.cs
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.Manifest.cache
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\staticwebassets\Online Shop.StaticWebAssets.xml
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\scopedcss\bundle\Online Shop.styles.css
@@ -879,6 +879,7 @@ D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Acc
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Cart\ShoppingCart.cshtml.g.cs
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
 D:\Arman\Online Shop\Online Shop\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs

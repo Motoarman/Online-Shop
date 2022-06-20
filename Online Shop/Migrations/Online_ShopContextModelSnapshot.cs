@@ -162,6 +162,9 @@ namespace Online_Shop.Migrations
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
@@ -172,6 +175,9 @@ namespace Online_Shop.Migrations
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("LockoutEnabled")
                         .HasColumnType("bit");
@@ -235,33 +241,6 @@ namespace Online_Shop.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.Order", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Comment")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("PurchaseItemId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("PurchaseItemId");
-
-                    b.HasIndex("UserId")
-                        .IsUnique()
-                        .HasFilter("[UserId] IS NOT NULL");
-
-                    b.ToTable("Orders");
-                });
-
             modelBuilder.Entity("Online_Shop.Models.Products", b =>
                 {
                     b.Property<int>("Id")
@@ -289,26 +268,6 @@ namespace Online_Shop.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
-                });
-
-            modelBuilder.Entity("Online_Shop.Models.PurchaceItem", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int?>("Count")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("ProductId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ProductId");
-
-                    b.ToTable("PurchaceItems");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -362,21 +321,6 @@ namespace Online_Shop.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.Order", b =>
-                {
-                    b.HasOne("Online_Shop.Models.PurchaceItem", "PurchaseItem")
-                        .WithMany("Orders")
-                        .HasForeignKey("PurchaseItemId");
-
-                    b.HasOne("Online_Shop.Areas.Identity.Data.Online_ShopUser", "OnlineShopUser")
-                        .WithOne("Order")
-                        .HasForeignKey("Online_Shop.Models.Order", "UserId");
-
-                    b.Navigation("OnlineShopUser");
-
-                    b.Navigation("PurchaseItem");
-                });
-
             modelBuilder.Entity("Online_Shop.Models.Products", b =>
                 {
                     b.HasOne("Online_Shop.Models.Categories", "Category")
@@ -386,28 +330,9 @@ namespace Online_Shop.Migrations
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.PurchaceItem", b =>
-                {
-                    b.HasOne("Online_Shop.Models.Products", "Product")
-                        .WithMany()
-                        .HasForeignKey("ProductId");
-
-                    b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("Online_Shop.Areas.Identity.Data.Online_ShopUser", b =>
-                {
-                    b.Navigation("Order");
-                });
-
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>
                 {
                     b.Navigation("Products");
-                });
-
-            modelBuilder.Entity("Online_Shop.Models.PurchaceItem", b =>
-                {
-                    b.Navigation("Orders");
                 });
 #pragma warning restore 612, 618
         }
