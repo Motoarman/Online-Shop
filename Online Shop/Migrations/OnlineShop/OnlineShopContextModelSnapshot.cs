@@ -107,6 +107,29 @@ namespace Online_Shop.Migrations.OnlineShop
                     b.ToTable("PurchaceItems");
                 });
 
+            modelBuilder.Entity("Online_Shop.Models.ShoppingCartItem", b =>
+                {
+                    b.Property<int>("ShoppingCartItemId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("Amount")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ShoppingCartId")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ShoppingCartItemId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ShoppingCartItems");
+                });
+
             modelBuilder.Entity("Online_Shop.Models.Orders", b =>
                 {
                     b.HasOne("Online_Shop.Models.PurchaceItem", "PurchaseItem")
@@ -134,6 +157,18 @@ namespace Online_Shop.Migrations.OnlineShop
                     b.Navigation("Product");
                 });
 
+<<<<<<< HEAD
+=======
+            modelBuilder.Entity("Online_Shop.Models.ShoppingCartItem", b =>
+                {
+                    b.HasOne("Online_Shop.Models.Products", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId");
+
+                    b.Navigation("Product");
+                });
+
+>>>>>>> 705f0324d45050e6fddb9efef969d9e55b52494a
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>
                 {
                     b.Navigation("Products");

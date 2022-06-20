@@ -1,11 +1,13 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Online_Shop.Data;
+using Online_Shop.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,6 +34,13 @@ namespace Online_Shop
 
             services.AddDbContext<OnlineShopContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("OnlineShopContext")));
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped(sp => ShoppingCart.GetCart(sp));
+
+            services.AddMvc();
+            services.AddMemoryCache();
+            services.AddSession();
            
         }
 
@@ -50,7 +59,7 @@ namespace Online_Shop
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseSession();
             app.UseRouting();
             app.UseAuthentication();
 
