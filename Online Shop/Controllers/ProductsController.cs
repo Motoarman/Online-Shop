@@ -4,11 +4,16 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Web;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Online_Shop.Data;
 using Online_Shop.Models;
+using static System.Collections.Specialized.BitVector32;
+using Microsoft.Extensions.DependencyInjection;
+using Online_Shop.Utility;
 
 namespace Online_Shop.Controllers
 {
@@ -16,11 +21,17 @@ namespace Online_Shop.Controllers
     {
         private readonly OnlineShopContext _context;
         private readonly IWebHostEnvironment _hostEnviroment;
+        IHttpContextAccessor HttpContextAccessor;
+    
 
+        List<Cart> li = new List<Cart>();
+
+       
         public ProductsController(OnlineShopContext context, IWebHostEnvironment hostEnviroment)
         {
             _context = context;
             _hostEnviroment = hostEnviroment;
+          
 
         }
 
@@ -50,6 +61,39 @@ namespace Online_Shop.Controllers
             return View(products);
         }
 
+
+        // GET: Products1/Details/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Details(int id,int qty)
+        {
+           
+
+
+            Products products = await _context.Products
+            .Include(p => p.Category)
+            .SingleOrDefaultAsync(m => m.Id == id);
+
+            Cart c = new Cart();
+            c.Id = id;
+            c.Title = products.Title;
+            c.Image = products.Image;
+            c.Discription = products.Discription;
+            c.Quantity = qty;
+            c.Amount = qty * (int)products.Price;
+
+          
+
+            if (HttpContext.Session.Get<IEnumerable<Cart>>(WC.SessionCart)!=null && HttpContext.Session.Get<IEnumerable<Cart>>(WC.SessionCart).Count() >0)
+            {
+
+                li = HttpContext.Session.Get<List<Cart>>(WC.SessionCart);
+            }
+            li.Add(c);
+            HttpContext.Session.Set(WC.SessionCart, li);
+
+            return RedirectToAction("Index");
+        }
         //GET: ProductsByCategory/1
         public async Task<IActionResult> ProductsByCategory(int? id)
         {
@@ -182,5 +226,7 @@ namespace Online_Shop.Controllers
         {
             return _context.Products.Any(e => e.Id == id);
         }
+
+       
     }
 }

@@ -10,8 +10,8 @@ using Online_Shop.Data;
 namespace Online_Shop.Migrations
 {
     [DbContext(typeof(Online_ShopContext))]
-    [Migration("20220616181529_new")]
-    partial class @new
+    [Migration("20220620184952_newmigration")]
+    partial class newmigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -99,12 +99,10 @@ namespace Online_Shop.Migrations
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderKey")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ProviderDisplayName")
                         .HasColumnType("nvarchar(max)");
@@ -141,12 +139,10 @@ namespace Online_Shop.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("LoginProvider")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(128)
-                        .HasColumnType("nvarchar(128)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Value")
                         .HasColumnType("nvarchar(max)");
@@ -164,6 +160,9 @@ namespace Online_Shop.Migrations
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
@@ -174,6 +173,9 @@ namespace Online_Shop.Migrations
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("LockoutEnabled")
                         .HasColumnType("bit");
@@ -237,29 +239,6 @@ namespace Online_Shop.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.Orders", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Comment")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("PurchaseItemId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("PurchaseItemId");
-
-                    b.ToTable("Orders");
-                });
-
             modelBuilder.Entity("Online_Shop.Models.Products", b =>
                 {
                     b.Property<int>("Id")
@@ -287,26 +266,6 @@ namespace Online_Shop.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
-                });
-
-            modelBuilder.Entity("Online_Shop.Models.PurchaceItem", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int?>("Count")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("ProductId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ProductId");
-
-                    b.ToTable("PurchaceItems");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -360,15 +319,6 @@ namespace Online_Shop.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.Orders", b =>
-                {
-                    b.HasOne("Online_Shop.Models.PurchaceItem", "PurchaseItem")
-                        .WithMany("Orders")
-                        .HasForeignKey("PurchaseItemId");
-
-                    b.Navigation("PurchaseItem");
-                });
-
             modelBuilder.Entity("Online_Shop.Models.Products", b =>
                 {
                     b.HasOne("Online_Shop.Models.Categories", "Category")
@@ -378,23 +328,9 @@ namespace Online_Shop.Migrations
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.PurchaceItem", b =>
-                {
-                    b.HasOne("Online_Shop.Models.Products", "Product")
-                        .WithMany()
-                        .HasForeignKey("ProductId");
-
-                    b.Navigation("Product");
-                });
-
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>
                 {
                     b.Navigation("Products");
-                });
-
-            modelBuilder.Entity("Online_Shop.Models.PurchaceItem", b =>
-                {
-                    b.Navigation("Orders");
                 });
 #pragma warning restore 612, 618
         }

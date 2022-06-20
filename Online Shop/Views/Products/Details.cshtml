@@ -12,6 +12,9 @@
     <br />
     <h4>Product</h4>
     <hr />
+  @using (Html.BeginForm())
+  {
+    <input type="hidden" name="id" value="@Model.Id" />
     <div style="display:inline-block; ">
         <img src="@("~/image/" + Model.Image)" asp-append-version="true" height="200vh" />
     </div>
@@ -44,9 +47,11 @@
             </dd>
         </dl>
     </div>
-</div>
-<div style="margin-top:1.5em">
-    <a class="btn btn-dark" style="border-radius:25px" asp-action="Index">Back to Products</a>
-    <a class="btn btn-dark" style="border-radius:25px" asp-action="Index">Add to Cart</a>
+    <div style="margin-top:1.5em">
+        <input type="number" placeholder="Qty" min="1" max="10" name="Qty" value="1" />
+        <input type="submit" value="Add To Cart" class="btn btn-secondary" />
+        <a class="btn btn-secondary" asp-action="Index">Back to Products</a>
+    </div>
+  }
 </div>
 
