@@ -1,0 +1,50 @@
+﻿body {
+    background-image: url('https://cutewallpaper.org/25/animated-white-wallpaper-gif/abstract-white-background-hd-motion-graphics-background-loop-white-video-royalty-free-footages-on-make-a-gif.gif');
+    background-size: cover;
+    display: cover;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.table{
+    background-color:black;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #404040;
+    border-color: white;
+}
+
+    .btn-primary:hover {
+        color: white;
+        background-color: black;
+        border-color: #1861ac;
+    }
+
+h1{
+    font-family:cursive;
+}
+.form-control {
+    border-color: black;
+    border-style: double;
+    border-bottom: 1px solid black;
+    box-shadow: 0 .25rem .75rem #404040;
+}
+a.btn-primary {
+    color: #fff;
+    background-color: #404040;
+    border-color: white;
+    border-radius: 25px;
+    width: 5%;
+    height: 25px;
+    font-size: 8px;
+    padding-left: 20px;
+    padding-top:5px;
+    margin-left:5px
+}
+
+    a.btn-primary:hover {
+        color: white;
+        background-color: black;
+        border-color: #1861ac;
+        width: 6%;
+        padding-left: 25px;
+    }

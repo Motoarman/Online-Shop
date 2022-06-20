@@ -1,13 +1,15 @@
-﻿@model Online_Shop.Models.Products
+﻿
+@model Online_Shop.Models.Products
 
 @{
     ViewData["Title"] = "Details";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
+ <link rel="stylesheet" href="/css/StyleSheet.css" />
+ <br />
 <h1>Details</h1>
-
 <div>
+    <br />
     <h4>Product</h4>
     <hr />
     <div style="display:inline-block; ">
@@ -44,6 +46,7 @@
     </div>
 </div>
 <div style="margin-top:1.5em">
-    <a class="btn btn-secondary" asp-action="Index">Back to Products</a>
-    <a class="btn btn-secondary" asp-action="Index">Add to Cart</a>
+    <a class="btn btn-dark" style="border-radius:25px" asp-action="Index">Back to Products</a>
+    <a class="btn btn-dark" style="border-radius:25px" asp-action="Index">Add to Cart</a>
 </div>
+

@@ -10,7 +10,7 @@ using Online_Shop.Data;
 namespace Online_Shop.Migrations.OnlineShop
 {
     [DbContext(typeof(OnlineShopContext))]
-    [Migration("20220609113057_new")]
+    [Migration("20220616181740_new")]
     partial class @new
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -20,58 +20,6 @@ namespace Online_Shop.Migrations.OnlineShop
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-            modelBuilder.Entity("Online_Shop.Areas.Identity.Data.Online_ShopUser", b =>
-                {
-                    b.Property<string>("Id")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("AccessFailedCount")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ConcurrencyStamp")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Email")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("EmailConfirmed")
-                        .HasColumnType("bit");
-
-                    b.Property<bool>("LockoutEnabled")
-                        .HasColumnType("bit");
-
-                    b.Property<DateTimeOffset?>("LockoutEnd")
-                        .HasColumnType("datetimeoffset");
-
-                    b.Property<string>("NormalizedEmail")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("NormalizedUserName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PasswordHash")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PhoneNumber")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("PhoneNumberConfirmed")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("SecurityStamp")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("TwoFactorEnabled")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("UserName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Online_ShopUser");
-                });
 
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>
                 {
@@ -103,15 +51,11 @@ namespace Online_Shop.Migrations.OnlineShop
                         .HasColumnType("int");
 
                     b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.HasIndex("PurchaseItemId");
-
-                    b.HasIndex("UserId")
-                        .IsUnique()
-                        .HasFilter("[UserId] IS NOT NULL");
 
                     b.ToTable("Orders");
                 });
@@ -171,12 +115,6 @@ namespace Online_Shop.Migrations.OnlineShop
                         .WithMany("Orders")
                         .HasForeignKey("PurchaseItemId");
 
-                    b.HasOne("Online_Shop.Areas.Identity.Data.Online_ShopUser", "OnlineShopUser")
-                        .WithOne("Orders")
-                        .HasForeignKey("Online_Shop.Models.Orders", "UserId");
-
-                    b.Navigation("OnlineShopUser");
-
                     b.Navigation("PurchaseItem");
                 });
 
@@ -196,11 +134,6 @@ namespace Online_Shop.Migrations.OnlineShop
                         .HasForeignKey("ProductId");
 
                     b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("Online_Shop.Areas.Identity.Data.Online_ShopUser", b =>
-                {
-                    b.Navigation("Orders");
                 });
 
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>

@@ -235,7 +235,7 @@ namespace Online_Shop.Migrations
                     b.ToTable("Categories");
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.Order", b =>
+            modelBuilder.Entity("Online_Shop.Models.Orders", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -249,15 +249,11 @@ namespace Online_Shop.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
                     b.HasIndex("PurchaseItemId");
-
-                    b.HasIndex("UserId")
-                        .IsUnique()
-                        .HasFilter("[UserId] IS NOT NULL");
 
                     b.ToTable("Orders");
                 });
@@ -362,17 +358,11 @@ namespace Online_Shop.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Online_Shop.Models.Order", b =>
+            modelBuilder.Entity("Online_Shop.Models.Orders", b =>
                 {
                     b.HasOne("Online_Shop.Models.PurchaceItem", "PurchaseItem")
                         .WithMany("Orders")
                         .HasForeignKey("PurchaseItemId");
-
-                    b.HasOne("Online_Shop.Areas.Identity.Data.Online_ShopUser", "OnlineShopUser")
-                        .WithOne("Order")
-                        .HasForeignKey("Online_Shop.Models.Order", "UserId");
-
-                    b.Navigation("OnlineShopUser");
 
                     b.Navigation("PurchaseItem");
                 });
@@ -393,11 +383,6 @@ namespace Online_Shop.Migrations
                         .HasForeignKey("ProductId");
 
                     b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("Online_Shop.Areas.Identity.Data.Online_ShopUser", b =>
-                {
-                    b.Navigation("Order");
                 });
 
             modelBuilder.Entity("Online_Shop.Models.Categories", b =>

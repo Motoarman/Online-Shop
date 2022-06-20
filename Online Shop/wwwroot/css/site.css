@@ -14,10 +14,15 @@ a {
 
 .btn-primary {
     color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    background-color: #404040;
+    border-color: white;
 }
-
+    .btn-primary:hover {
+        color: white;
+        background-color: black;
+        border-color: #1861ac;
+    }
+    lm
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
     background-color: #1b6ec2;
@@ -84,6 +89,9 @@ body {
     padding: 1em;
     width: 30%;
    
+}
+header{
+    background-color:aqua;
 }
 
 

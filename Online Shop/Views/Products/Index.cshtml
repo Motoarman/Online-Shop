@@ -5,26 +5,26 @@
 
 @inject SignInManager<Online_ShopUser> SignInManager
 @inject UserManager<Online_ShopUser> UserManager
-
-
-
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 
-
-<h1>ALL Products</h1>
+ <link rel="stylesheet" href="/css/StyleSheet1.css">
+<h1 style="letter-spacing:2px; font-family:Times New Roman; font-weight:1000">All Products</h1>
 @if (SignInManager.IsSignedIn(User))
 {
     <p>
 
-        <button class="btn btn-outline-primary" onclick="document.location='Products1/Create'">Add New Product</button>
-        <button class="btn btn-outline-primary" onclick="document.location='Categories1/Create'">Add New Category</button>
+        <br>
+        <br>
+  
+        <button class="btn btn-dark" onclick="document.location='Products/Create'">Add New Product</button>
+        <button class="btn btn-dark" onclick="document.location='Categories/Create'">Add New Category</button>
     </p>
 
-    <table class="table">
+    <table class="table" style="background-color:white; opacity:0.8" >
         <thead>
             <tr>
                 <th>
