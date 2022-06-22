@@ -127,3 +127,27 @@ header{
 .btn {
     padding: 0.5em 5em 0.5em 5em;
 }
+div.cyan brackets a:before, div.brackets a:after {
+    position: absolute;
+    opacity: 0;
+    font-size: 35px;
+    top: 0px;
+    transition: all 0.3s;
+}
+
+div.brackets a:before {
+    content: '(';
+    left: 0px;
+    transform: translateX(10px);
+}
+
+div.brackets a:after {
+    content: ')';
+    right: 0px;
+    transform: translateX(-10px);
+}
+
+div.brackets a:hover:before, div.brackets a:hover:after {
+    opacity: 1;
+    transform: translateX(0px);
+}
