@@ -27,6 +27,8 @@ namespace Online_Shop.Models
         public int? Price { get; set; }
         public int? CategoryId { get; set; }
 
+        
+
         public virtual Categories Category { get; set; }
 
     }

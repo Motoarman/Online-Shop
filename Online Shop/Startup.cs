@@ -8,8 +8,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
+using Online_Shop.Areas.Identity.Data;
 using Online_Shop.Data;
 using Online_Shop.Models;
+using Online_Shop.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,7 +38,7 @@ namespace Online_Shop
 
             services.AddDbContext<OnlineShopContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("OnlineShopContext")));
-
+           
            
             services.AddMvc();
             services.AddMemoryCache();
@@ -48,7 +50,8 @@ namespace Online_Shop
                 Options.Cookie.IsEssential = true;
             }
             );
-           
+
+            services.AddScoped<IUserClaimsPrincipalFactory<Online_ShopUser>, OnlineShopClaimsPrincipalFactory>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

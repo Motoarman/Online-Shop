@@ -26,39 +26,23 @@ namespace Online_Shop.Controllers
             return View(li);
         }
 
-        //    public async Task<IActionResult> Delete(int? id)
-        //    {
-        //        if (id == null)
-        //        {
-        //            return NotFound();
-        //        }
+        public IActionResult Remove(int id)
+        {
+          
+            List<Cart> li = new List<Cart>();
 
-        //        var products = await _context.Products
-        //            .Include(p => p.Category)
-        //            .FirstOrDefaultAsync(m => m.Id == id);
-        //        if (products == null)
-        //        {
-        //            return NotFound();
-        //        }
+            if (HttpContext.Session.Get<IEnumerable<Cart>>(WC.SessionCart) != null && HttpContext.Session.Get<IEnumerable<Cart>>(WC.SessionCart).Count() > 0)
+            {
 
-        //        return View(products);
-        //    }
+                li = HttpContext.Session.Get<List<Cart>>(WC.SessionCart);
+            }
 
-        //    // POST: Products1/Delete/5
-        //    [HttpPost, ActionName("Delete")]
-        //    [ValidateAntiForgeryToken]
-        //    public async Task<IActionResult> DeleteConfirmed(int id)
-        //    {
-        //        var products = await _context.Products.FindAsync(id);
-        //        _context.Products.Remove(products);
-        //        await _context.SaveChangesAsync();
-        //        return RedirectToAction(nameof(Index));
-        //    }
+            li.Remove(li.FirstOrDefault(c => c.Id == id));
 
-        //    private bool ProductsExists(int id)
-        //    {
-        //        return _context.Products.Any(e => e.Id == id);
-        //    }
-        //}
+            HttpContext.Session.Set(WC.SessionCart, li);
+
+            return RedirectToAction("ShoppingCart");
+        }
+
     }
 }

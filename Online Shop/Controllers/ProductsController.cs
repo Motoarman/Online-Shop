@@ -14,6 +14,8 @@ using Online_Shop.Models;
 using static System.Collections.Specialized.BitVector32;
 using Microsoft.Extensions.DependencyInjection;
 using Online_Shop.Utility;
+using Microsoft.AspNetCore.Authorization;
+using Online_Shop.ViewModel;
 
 namespace Online_Shop.Controllers
 {
@@ -25,8 +27,10 @@ namespace Online_Shop.Controllers
     
 
         List<Cart> li = new List<Cart>();
+        
 
-       
+
+
         public ProductsController(OnlineShopContext context, IWebHostEnvironment hostEnviroment)
         {
             _context = context;
@@ -45,24 +49,37 @@ namespace Online_Shop.Controllers
         // GET: Products1/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
 
-            var products = await _context.Products
+            if (HttpContext.Session.Get<IEnumerable<Cart>>(WC.SessionCart) != null && HttpContext.Session.Get<IEnumerable<Cart>>(WC.SessionCart).Count() > 0)
+            {
+
+                li = HttpContext.Session.Get<List<Cart>>(WC.SessionCart);
+            }
+            DetailsVm DetailsVm = new DetailsVm()
+            {
+                Products = await _context.Products
                 .Include(p => p.Category)
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (products == null)
+                .FirstOrDefaultAsync(m => m.Id == id),
+                ExitsInCart = false
+
+            };
+
+
+
+            foreach (var item in li)
             {
-                return NotFound();
+                if (item.Id==id)
+                {
+                  DetailsVm.ExitsInCart = true;
+                }
             }
 
-            return View(products);
+            return View(DetailsVm);
         }
 
 
         // GET: Products1/Details/5
+        [Authorize (Roles ="User")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Details(int id,int qty)
