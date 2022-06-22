@@ -10,18 +10,21 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-
-<h1>ALL Products</h1>
+<link rel="stylesheet" href="/css/StyleSheet1.css">
+<br />
+<h1 >All Products</h1>
 @if (User.IsInRole(WC.AdminRole))
 
     {
         <p>
+            <br>
+            <br>
 
-            <button class="btn btn-outline-primary" onclick="document.location='Products/Create'">Add New Product</button>
-            <button class="btn btn-outline-primary" onclick="document.location='Categories/Create'">Add New Category</button>
+            <button class="btn btn-dark" onclick="document.location='Products/Create'">Add New Product</button>
+            <button class="btn btn-dark" styleonclick="document.location='Categories/Create'">Add New Category</button>
         </p>
 
-        <table class="table">
+        <table class="table" style="background-color:white; opacity:0.8">
             <thead>
                 <tr>
                     <th>
@@ -109,7 +112,7 @@ else
                     </div>
 
                     <div style="text-align:center">
-                        <a asp-action="Details" asp-route-id="@item.Id" style="padding:0.5% 15% 1% 20%;margin-bottom:0.5em;" class="btn btn-outline-primary">Details</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" style="padding:0.5% 15% 1% 20%;margin-bottom:0.5em;" class="btn btn-dark">Details</a>
                     </div>
                     <div style="text-align:center;margin-bottom:1em">
 
