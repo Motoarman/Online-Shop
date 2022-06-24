@@ -19,8 +19,11 @@ namespace Online_Shop.Areas.Identity
                 services.AddDbContext<Online_ShopContext>(options =>
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("Online_ShopContextConnection")));
+                services.AddDbContext<Online_ShopContext>(options =>
+           options.UseSqlServer(
+                   context.Configuration.GetConnectionString("Online_ShopContext")));
 
-                services.AddIdentity<Online_ShopUser,IdentityRole>().AddDefaultTokenProviders().AddDefaultUI()
+            services.AddIdentity<Online_ShopUser,IdentityRole>().AddDefaultTokenProviders().AddDefaultUI()
                     .AddEntityFrameworkStores<Online_ShopContext>();
             });
         }

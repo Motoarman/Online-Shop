@@ -23,7 +23,7 @@ namespace Online_Shop.Controllers
     {
         private readonly OnlineShopContext _context;
         private readonly IWebHostEnvironment _hostEnviroment;
-        IHttpContextAccessor HttpContextAccessor;
+
     
 
         List<Cart> li = new List<Cart>();
@@ -44,6 +44,7 @@ namespace Online_Shop.Controllers
         {
             var onlineShopContext = _context.Products.Include(p => p.Category);
             return View(await onlineShopContext.ToListAsync());
+            
         }
 
         // GET: Products1/Details/5
@@ -135,26 +136,26 @@ namespace Online_Shop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Discription,ImageFile,Price,CategoryId")] Products products)
-        {
-            if (ModelState.IsValid)
+            public async Task<IActionResult> Create([Bind("Id,Title,Discription,ImageFile,Price,CategoryId")] Products products)
             {
-                string wwwwRootPath = _hostEnviroment.WebRootPath;
-                string filename = Path.GetFileNameWithoutExtension(products.ImageFile.FileName);
-                string extension = Path.GetExtension(products.ImageFile.FileName);
-                products.Image = filename = filename + DateTime.Now.ToString("yymmssfff") + extension;
-                string path = Path.Combine(wwwwRootPath + "/Image/", filename);
-                using (var filestream = new FileStream(path, FileMode.Create))
+                if (ModelState.IsValid)
                 {
-                    await products.ImageFile.CopyToAsync(filestream);
+                    string wwwwRootPath = _hostEnviroment.WebRootPath;
+                    string filename = Path.GetFileNameWithoutExtension(products.ImageFile.FileName);
+                    string extension = Path.GetExtension(products.ImageFile.FileName);
+                    products.Image = filename = filename + DateTime.Now.ToString("yymmssfff") + extension;
+                    string path = Path.Combine(wwwwRootPath + "/Image/", filename);
+                    using (var filestream = new FileStream(path, FileMode.Create))
+                    {
+                        await products.ImageFile.CopyToAsync(filestream);
+                    }
+                    _context.Add(products);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
                 }
-                _context.Add(products);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Category", products.CategoryId);
+                return View(products);
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Category", products.CategoryId);
-            return View(products);
-        }
 
         // GET: Products1/Edit/5
         public async Task<IActionResult> Edit(int? id)

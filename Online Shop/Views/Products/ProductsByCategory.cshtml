@@ -23,7 +23,7 @@
 <hr />
 @if (User.IsInRole(WC.AdminRole))
 {
-    <table class="table"  style="background-color:white; opacity:0.8">
+    <table class="table" style="background-color:white; opacity:0.8">
         <thead>
             <tr>
                 <th>
@@ -104,11 +104,15 @@ else
                 <div style="text-align:center;font-weight:bold">
                     @Html.DisplayFor(modelItem => item.Title)
                 </div>
-
-                <div style="text-align:center">
-                    <a asp-action="Details" asp-route-id="@item.Id" style="padding:0.5% 15% 1% 20%;margin-bottom:0.5em;" class="btn btn-outline-primary">Details</a>
+                <div style="text-align:center;font-weight:bold">
+                    ₹ @Html.DisplayFor(modelItem => item.Price)
                 </div>
 
+                <div style="text-align:center">
+                    <a asp-action="Details" asp-route-id="@item.Id" style="padding:0.5% 15% 1% 20%;margin-bottom:0.5em;" class="btn btn-dark">Details</a>
+                </div>
+                <div style="text-align:center;margin-bottom:1em">
+                </div>
             </div>
         </div>
     }

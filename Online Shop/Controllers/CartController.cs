@@ -1,16 +1,31 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Online_Shop.Areas.Identity.Data;
+using Online_Shop.Data;
 using Online_Shop.Models;
 using Online_Shop.Utility;
+using Online_Shop.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace Online_Shop.Controllers
 {
+
     public class CartController : Controller
     {
+        private readonly Online_ShopContext _context;
+      
+
+        public CartController(Online_ShopContext context)
+        {
+            _context = context;
+            
+        }
+        [BindProperty]
+        public SummeryVm SummeryVm { get; set; }
         public IActionResult ShoppingCart()
         {
             Cart c = new Cart();
@@ -21,8 +36,7 @@ namespace Online_Shop.Controllers
 
                 li = HttpContext.Session.Get<List<Cart>>(WC.SessionCart);
             }
-
-
+          
             return View(li);
         }
 
@@ -44,5 +58,6 @@ namespace Online_Shop.Controllers
             return RedirectToAction("ShoppingCart");
         }
 
+       
     }
 }

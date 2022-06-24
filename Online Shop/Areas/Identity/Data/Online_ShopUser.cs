@@ -16,7 +16,9 @@ namespace Online_Shop.Areas.Identity.Data
         
         public string Address { get; set; }
 
-       
+      
+
+
 
 
     }

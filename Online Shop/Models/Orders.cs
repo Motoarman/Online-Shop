@@ -14,14 +14,25 @@ namespace Online_Shop.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        public int? PurchaseItemId { get; set; }
+        public string Title { get; set; }
 
-        public string UserId { get; set; }
-        public string Comment { get; set; }
+        public int Quantity { get; set; }
 
-       
+        public int Amount { get; set; }
 
-      
+        public string FullName { get; set; }
+
+        public string Email { get; set; }
+
+        public string PhoneNumber { get; set; }
+
+        public string Address { get; set; }
+
+
+
+
+
+
 
 
 

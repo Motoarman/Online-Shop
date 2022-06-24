@@ -12,8 +12,10 @@
 
 <link rel="stylesheet" href="/css/StyleSheet1.css">
 <br />
-<h1 >All Products</h1>
-@if (User.IsInRole(WC.AdminRole))
+
+    <h1>All Products</h1>
+    <hr />
+    @if (User.IsInRole(WC.AdminRole))
 
     {
         <p>
@@ -93,7 +95,7 @@
         </table>
 
     }
-else
+    else
     {
 
         @foreach (var item in Model)
@@ -122,6 +124,7 @@ else
 
                 </div>
             </div>
+        
         }
 
     }

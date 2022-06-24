@@ -6,25 +6,29 @@
 }
 
 <header>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark accept-policy b border-bottom box-shadow mb-3" style="background-color:wheat;">
-        <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                <ul class="navbar-nav flex-grow-1">
+    <nav style="background-color:wheat;" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark accept-policy b border-bottom box-shadow mb-3" >
+            <div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
 
-                    @foreach (var item in Model)
-                    {
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Products" asp-action="ProductsByCategory" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Category)</a>
-                        </li>
-                    }
-                </ul>
+                        @foreach (var item in Model)
+                        {
+                            <li style="font-weight:600" class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Products" asp-action="ProductsByCategory" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Category)</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
             </div>
-        </div>
     </nav>
+   
 </header>
+<div style="text-align:center; margin-top: 15%; color:dimgray; letter-spacing:3px">
+    <h2>Select Category</h2>
+</div>
 
 

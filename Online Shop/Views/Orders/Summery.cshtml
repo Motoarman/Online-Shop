@@ -1,0 +1,101 @@
+﻿@model Online_Shop.ViewModel.SummeryVm
+@{
+    ViewData["Title"] = "Summery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Summery</h1>
+
+<hr />
+<div>
+
+    @using (Html.BeginForm())
+    {
+    <div style="display: inline-block" class="col-md-4">
+        <h3>User Details</h3>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Online_ShopUser.FullName" class="control-label"></label>
+            <input asp-for="@Model.Online_ShopUser.FullName" class="form-control" />
+            <span asp-validation-for="@Model.Online_ShopUser.FullName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Online_ShopUser.Email" class="control-label"></label>
+            <input asp-for="@Model.Online_ShopUser.Email" class="form-control" />
+            <span asp-validation-for="@Model.Online_ShopUser.Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Online_ShopUser.PhoneNumber" class="control-label"></label>
+            <input asp-for="@Model.Online_ShopUser.PhoneNumber" class="form-control" />
+            <span asp-validation-for="@Model.Online_ShopUser.PhoneNumber" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="@Model.Online_ShopUser.Address" class="control-label"></label>
+            <input asp-for="@Model.Online_ShopUser.Address" class="form-control" />
+            <span asp-validation-for="@Model.Online_ShopUser.Address" class="text-danger"></span>
+        </div>
+
+    </div>
+    <div style="display:inline-block;vertical-align:top;" class="col-md-5">
+        <h3>Order Details</h3>
+        <br />
+        <table class="table" style="background-color:white; opacity:0.8">
+            <thead>
+                <tr>
+                    <th>
+                        Title
+                    </th>
+                    <th>
+                        Quanity
+                    </th>
+                    <th>
+                        amount
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CartItems)
+                {
+                    <input type="hidden" name="Title" value="@item.Title" />
+                    <input type="hidden" name="Quantity" value="@item.Quantity" />
+                    <input type="hidden" name="Amount" value="@item.Amount" />
+                    <tr>
+                        <td>
+
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </td>
+                        <td>
+
+                            @Html.DisplayFor(modelItem => item.Quantity)
+                        </td>
+
+                        <td>
+
+                            @Html.DisplayFor(modelItem => item.Amount)
+                        </td>
+                    </tr>
+
+
+                }
+</table>
+    </div>
+    <div style=" display:inline-block;vertical-align:top;">
+        <h3>Payment Options</h3>
+        <br />
+        <input type="hidden" name="FullName" value="@Model.Online_ShopUser.FullName"/>
+        <input type="hidden" name="Email" value="@Model.Online_ShopUser.Email" />
+        <input type="hidden" name="PhoneNumber" value="@Model.Online_ShopUser.PhoneNumber" />
+        <input type="hidden" name="Address" value="@Model.Online_ShopUser.Address" />
+      
+        <input type="radio" value="true" />
+        <label> Cash On delivery</label>
+    </div>
+    <div style="float:right" class="form-group">
+        <input type="submit" value="Place Order" class="btn btn-primary" />
+    </div>
+    }
+</div>
+
